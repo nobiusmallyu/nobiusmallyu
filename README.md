@@ -5,8 +5,7 @@
 <a href="https://github.com/nobiusmallyu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobiusmallyu&&hide=cmake&langs_count=5&line_height=35&theme=vue-dark&exclude_repo=cobalt-arsenal" />
 </a>
-[![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/nobiusmallyu/)](https://www.github.com/nobiusmallyu/)
-## Some of my Github Stats
+
 <p align=left> <img src=https://komarev.com/ghpvc/?username=nobiusmallyu alt=nobiusmallyu /> </p>
 
 <a href="https://github.com/nobiusmallyu">

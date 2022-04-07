@@ -1,3 +1,6 @@
+## smallyu's
+Hi! I'm smallyu.a red team player,He is also an information security education instructor. Over the past 8 years, I have trained numerous information security practitioners.This account is a new account I created. Recently, I am preparing for a new course together. Therefore, this account will be used as a record of teaching and learning records. During the process, some gadgets may be released, and whether the account will continue to be used in the future needs to be read again.
+
 <a href="https://github.com/nobiusmallyu">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nobiusmallyu&show_icons=true&line_height=33&count_private=true&theme=vue-dark" alt="smallyu's GitHub Stats" />
 </a>
